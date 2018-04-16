@@ -1,6 +1,6 @@
 # Inteligência Artificial API Cybion
 <p align="center"><img src="image.png" alt="cybion_ia"></p>
-<p align="center"><a href="francistrapp2000@gmail.com">Autor</a></p>
+<p align="center"><a href="https://telegram.me/SrTaylor">Dev: Francis Taylor</a></p>
 <p align="center">⚜️<strong>Versão 1.4.4 | Python 3.6+</strong></p>
 
 * * *
